@@ -33,4 +33,6 @@ def main(cam=False,
 
 
 if __name__ == "__main__":
-    main(False, "video1")
+    #main(False, "video1")
+    main(True)
+        
